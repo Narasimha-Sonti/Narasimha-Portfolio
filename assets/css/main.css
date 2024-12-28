@@ -704,6 +704,7 @@ section,
 
 #skills-box {
   left: 18px;
+  margin :5px;
   position: relative;
   background-color: #142536;
   padding: 20px;
